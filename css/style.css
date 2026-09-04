@@ -82,7 +82,7 @@ h1{font-size:clamp(42px,5vw,67px);line-height:1.02;letter-spacing:-3.5px;max-wid
   background:rgba(22,199,132,.18);filter:blur(55px);
 }
 .chat{
-  position:relative;width:min(390px,100%);background:#fff;
+  position:relative;width:min(390px,100%);background:#0B0F0D;
   border:1px solid #dbe8e2;border-radius:25px;
   box-shadow:0 35px 90px rgba(10,47,32,.18);overflow:hidden;
 }
